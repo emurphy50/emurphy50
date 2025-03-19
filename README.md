@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm **Ella**, an MSc Geographic Data Science stude
 - 🎓 MSc in Geographic Data Science
 - 🗺️ Experience with GIS tools: QGIS, ArcGIS, GeoPandas
 - 📊 Skilled in SQL, R, and Python
-- 🏗️ Interested in geospatial analysis and social inequalities
+- 🌏 Interested in geospatial analysis and social inequalities
 
 ## 💻 Tech Stack
 - **Programming:** Python (GeoPandas, Pandas), R, SQL
