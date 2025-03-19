@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**emurphy50/emurphy50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **[Ella]**, an MSc Geographic Data Science student passionate about geospatial analysis and data visualisation.
 
-Here are some ideas to get you started:
+## 🔍 About Me
+- 🎓 MSc in Geographic Data Science
+- 🗺️ Experience with GIS tools: QGIS, ArcGIS, GeoPandas
+- 📊 Skilled in SQL, R, and Python
+- 🏗️ Interested in geospatial analysis and social inequalities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Programming:** Python (GeoPandas, Pandas), R, SQL
+- **GIS & Mapping:** QGIS, ArcGIS
+
+## 📫 Connect with Me
+- 🌐 [LinkedIn](www.linkedin.com/in/ella-murphy501)
+- 📨 [Email](mailto:ella.murphy501@gmail.com)
