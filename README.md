@@ -1,6 +1,6 @@
 # Hello! 👋
 
-Welcome to my GitHub profile! I'm **[Ella]**, an MSc Geographic Data Science student passionate about geospatial analysis and data visualisation.
+Welcome to my GitHub profile! I'm **Ella**, an MSc Geographic Data Science student passionate about geospatial analysis and data visualisation!
 
 ## 🔍 About Me
 - 🎓 MSc in Geographic Data Science
