@@ -13,5 +13,5 @@ Welcome to my GitHub profile! I'm **Ella**, an MSc Geographic Data Science stude
 - **GIS & Mapping:** QGIS, ArcGIS
 
 ## 📫 Connect with Me
-- 🌐 [LinkedIn](www.linkedin.com/in/ella-murphy501)
+- 🌐 [LinkedIn]([www.linkedin.com/in/ella-murphy501](https://www.linkedin.com/in/ella-murphy501/))
 - 📨 [Email](mailto:ella.murphy501@gmail.com)
